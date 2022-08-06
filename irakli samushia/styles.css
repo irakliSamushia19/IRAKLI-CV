@@ -1,0 +1,91 @@
+body{
+    margin: 0% !important;
+}
+.main1{
+    background-color: #110559;
+    
+}
+.header{
+    margin-left: 5%;
+    position: relative;
+}
+.contact{
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.ika{
+    margin: 0px;
+    padding-top: 30px;
+    color: white;
+}
+h3{
+    color: white;
+    margin: 0px;
+    
+}
+h5, i{
+    color: white;
+}
+i{
+    padding-right: 5px;
+}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.main_info{
+    width: 60%;
+    height: 500px;
+    
+    display: flex;
+}
+.for-edu{
+    width: 70%;
+    display: flex;
+    
+    flex-direction: column;
+}
+.prog{
+    margin-top: -10px;
+}
+.step{
+    margin-top: 30px;
+}
+.profile{
+    margin-top: 20px;
+}
+.aboutme{
+    width: 90%;
+}
+.line1{
+    width: 95%;
+    height: 1px;
+    margin-top: 40px;
+    background-color: gray;
+}
+h1, h2, h3, h4, h5, p{
+    font-family: 'Arvo', serif;
+}
+.education{
+    margin: 0%;
+}
+.line2{
+    width: 0.5px;
+    height: 600px;
+    background-color: gray;
+    margin-top: 10px;
+}
+.abilities{
+    margin-left: 20px;
+}
+.line3{
+    width: 90%;
+    height: 1px;
+    background-color: gray;
+}
+
+
